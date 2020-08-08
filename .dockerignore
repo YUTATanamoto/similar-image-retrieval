@@ -1,0 +1,6 @@
+images/
+.ipynb_checkpoints/
+.gitignore
+.DS_Store
+Pipfile
+Pipfile.lock
